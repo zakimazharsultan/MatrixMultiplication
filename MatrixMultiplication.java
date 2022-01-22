@@ -1,13 +1,11 @@
 /*
 Name : Zaki Bin Mazhar Sultan
-Reg # : SP21-BCS-098
-Class Assignment 03
-Question 1 : Multiplication of 2 Matrices
+Question: Multiplication of 2 Matrices
 */
 
 import java.util.Scanner;
 
-public class Question1{
+public class MatrixMultiplication{
 		static Scanner obj = new Scanner(System.in);
 	public static void main(String[] args){
 		// getting inputs for rows and columns of two matrices
